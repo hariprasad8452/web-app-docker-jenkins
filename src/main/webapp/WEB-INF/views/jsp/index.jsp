@@ -112,7 +112,7 @@
 <body>
   <div class="container">
     <header class="header">
-      <h1>Mr. Camel</h1>
+      <h1>Mr. Harry</h1>
       <div class="social">
         <a href="#"><i class="fab fa-facebook"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
@@ -132,7 +132,7 @@
     </aside>
     <main class="content">
       <h2>About Me</h2>
-      <p>while(technology==new)
+      <p>while(technology==new) </br>
             KnowAboutIt()</p>
       <h2>My Career</h2>
       <p>I like to see the problems in a different and like to solve in simplle way</p>
@@ -145,9 +145,9 @@
           <th>SKILL 3</th>
         </tr>
         <tr>
-          <td><i class="fas fa-broom"></i></td>
-          <td><i class="fas fa-archive"></i></td>
-          <td><i class="fas fa-trailer"></i></td>
+          <td><i class="fa fa-cloud"></i></td>
+          <td><i class="fa fa-code"></i></td>
+          <td><i class="fa fa-font-awesome"></i></td>
         </tr>
         <tr>
           <td>Operational Part AWS/Azure Devops</td>
@@ -163,7 +163,7 @@
         <input type="submit" value="Submit" /><br>
       </form>
     </main>
-    <footer class="footer">&copy; Copyright Mr. Camel</footer>
+    <footer class="footer">&copy; Copyright Mr. Harry</footer>
   </div>
 </body>
 
