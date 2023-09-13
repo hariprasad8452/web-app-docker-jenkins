@@ -135,7 +135,7 @@
       <p>while(technology==new) </br>
             KnowAboutIt()</p>
       <h2>My Career</h2>
-      <p>I like to see the problems in a different and like to solve in simplle way</p>
+      <p>I like to see the problems in a different and like to solve in simple way</p>
       <hr><br>
       <h2>How Can I Help You?</h2>
       <table>
@@ -147,7 +147,7 @@
         <tr>
           <td><i class="fa fa-cloud"></i></td>
           <td><i class="fa fa-code"></i></td>
-          <td><i class="fa fa-font-awesome"></i></td>
+          <td><i class="fa fa-plus"></i></td>
         </tr>
         <tr>
           <td>Operational Part AWS/Azure Devops</td>
